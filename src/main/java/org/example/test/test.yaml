@@ -1,0 +1,51 @@
+engineType: '1'
+loadType: '0'
+hotDeployment: 'true'
+preloadScript: 'true'
+proxy: 'false'
+cfgMode: 'false'
+scriptPaths: ''
+applog:
+  recordMode: '0'
+  traceEnabled: 'true'
+  debugEnabled: 'true'
+  inforEnabled: 'true'
+  errorEnabled: 'true'
+  dumpEnabled: 'true'
+  bufferSize: 16k
+  maxFileSize: ${file:-32m}
+  maxFileCount: '1000'
+  rootPath: ''
+  dateDirMode: '0'
+  filterMode: '0'
+  fileEncoding: utf-8
+  redirectError: 'false'
+  redundant: 'false'
+  backup: 'false'
+  provider: cn.com.agree.afa.applog.logger.FileLoggerProvider
+  fileNameSuffix: ''
+  customizedTrades: []
+threadPool:
+  corePoolSize: '16'
+  maxPoolSize: '16'
+  keepAliveTime: '60000'
+  queueSize: '320'
+hibernate:
+  sessionFactorys: []
+mybatis:
+  sessionFactorys: []
+oneTradeMonitor:
+  open: 'false'
+  items: []
+monitorTrade:
+  usable: 'false'
+  trades: []
+c3p0: []
+jndi: []
+ucp: []
+obase: []
+addal: []
+hikari: []
+druid: []
+shareConnPools: []
+envs: []

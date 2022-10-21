@@ -1,0 +1,4 @@
+test: dddd
+platform2:
+  test: ${test:-default}
+  name: dddd
