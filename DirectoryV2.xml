@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <trees>
+     <tree path="/src/main/java/org/example/algorithm/demo" title="排序算法"/>
+     <tree path="/src/main/java/org/example/annotation/demo" title="注解"/>
+     <tree path="/src/main/java/org/example/async/demo" title="并发异步"/>
+     <tree path="/src/main/java/org/example/byteSign/demo" title=">>/>>>移位"/>
+     <tree path="/src/main/java/org/example/command/demo" title="命令设计模式"/>
+     <tree path="/src/main/java/org/example/designPatterns/demo" title="设计模式"/>
+     <tree path="/src/main/java/org/example/designPatterns/demo/abstractFactory" title="抽象工厂"/>
+     <tree path="/src/main/java/org/example/designPatterns/demo/factoryMethod" title="工厂模式"/>
+     <tree path="/src/main/java/org/example/designPatterns/demo/prototype" title="原型（深浅复制）"/>
+     <tree path="/src/main/java/org/example/designPatterns/demo/singleton" title="单例模式"/>
+     <tree path="/src/main/java/org/example/proxy/demo/dynamicProxy" title="动态代理"/>
+    <tree path="/src/main/java/org/example/proxy/demo/simpleAOP" title="切面"/>
+    <tree path="/src/main/java/org/example/proxy/demo/staticProxy" title="静态代理"/>
+    <tree path="/src/main/java/org/example/reflection/demo" title="反射"/>
+    <tree path="/src/main/java/org/example/proxy/demo" title="代理"/>
+    <tree path="/src/main/java/org/example/stream/demo" title="流"/>
+    <tree path="/src/main/java/org/example/test" title="工作测试类"/>
+    <tree path="/src/main/java/org/example/utils" title="工具类"/>
+    <tree path="/src/main/java/org/example/utils/MakeData.java" title="生产人名随机表单" extension="java"/>
+    <tree path="/src/main/java/org/example/yaml/demo" title="yaml处理测试类"/>
+    <tree path="/src/main/java/org/example/generics/demo" title="泛型"/>
+</trees>

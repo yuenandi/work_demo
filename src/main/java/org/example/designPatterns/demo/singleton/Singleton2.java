@@ -15,7 +15,7 @@ public class Singleton2 {
         private static Singleton2 instance = new Singleton2();
     }
     /* 获取实例 */
-    public Singleton2 getInstance(){
+    public static Singleton2 getInstance(){
         return Singlton2Factory.instance;
     }
     /* 如果该对象被用于序列化，可以保证对象在序列化前后保持一致 */
