@@ -15,7 +15,7 @@
     <tree path="/src/main/java/org/example/proxy/demo/staticProxy" title="静态代理"/>
     <tree path="/src/main/java/org/example/reflection/demo" title="反射"/>
     <tree path="/src/main/java/org/example/proxy/demo" title="代理"/>
-    <tree path="/src/main/java/org/example/stream/demo" title="流"/>
+    <tree path="/src/main/java/org/example/stream/demo" title="文件处理"/>
     <tree path="/src/main/java/org/example/test" title="工作测试类"/>
     <tree path="/src/main/java/org/example/utils" title="工具类"/>
     <tree path="/src/main/java/org/example/utils/MakeData.java" title="生产人名随机表单" extension="java"/>

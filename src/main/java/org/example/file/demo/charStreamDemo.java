@@ -1,4 +1,4 @@
-package org.example.stream.demo;
+package org.example.file.demo;
 
 import org.example.utils.MakeData;
 import org.example.utils.NameData;

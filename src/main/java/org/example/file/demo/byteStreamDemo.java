@@ -1,4 +1,4 @@
-package org.example.stream.demo;
+package org.example.file.demo;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
